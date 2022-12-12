@@ -1,0 +1,67 @@
+<!-- wp:paragraph -->
+<p>Our <strong><a href="https://wordpress.org/plugins/post-grid/" data-type="URL" data-id="https://wordpress.org/plugins/post-grid/" target="_blank" rel="noreferrer noopener">Post Grid Combo</a></strong> plugin will help you to add various type of pagination. By reading this article, you’ll get a clear idea about how to enable Infinite Load.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://youtu.be/QzCZ_sLnRAQ","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/QzCZ_sLnRAQ
+</div><figcaption class="wp-element-caption"><strong>It’s recommended to watch the video as it’ll be easier for you to understand.</strong></figcaption></figure>
+<!-- /wp:embed -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>You can find infinite loading inside<strong> Pagination </strong>section.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://imgur.com/o3oeb47","type":"rich","providerNameSlug":"imgur","responsive":true} -->
+<figure class="wp-block-embed is-type-rich is-provider-imgur wp-block-embed-imgur"><div class="wp-block-embed__wrapper">
+https://imgur.com/o3oeb47
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>Now Click on <strong>Choose </strong>button.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://imgur.com/RLP6MsD","type":"rich","providerNameSlug":"imgur","responsive":true} -->
+<figure class="wp-block-embed is-type-rich is-provider-imgur wp-block-embed-imgur"><div class="wp-block-embed__wrapper">
+https://imgur.com/RLP6MsD
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>Here a popup window will be appeared, then select <strong>Infinite Load.</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://imgur.com/tYS9Ihs","type":"rich","providerNameSlug":"imgur","responsive":true} -->
+<figure class="wp-block-embed is-type-rich is-provider-imgur wp-block-embed-imgur"><div class="wp-block-embed__wrapper">
+https://imgur.com/tYS9Ihs
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>Now update the page and your page have<strong> infinite loop.</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Hope this article will help you to customize your page to enable infinite loop. If not, please create a <a href="https://pickplugins.com/forum/">support ticket here</a>, and we’ll get back to you asap. Also, you can provide us with a <a href="https://wordpress.org/support/plugin/post-grid/reviews/">review here</a>. Your review is much more beneficial to us. In fact, that’s how we improve!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Read Next: <a href="https://pickplugins.com/documentation/post-grid-combo/faq/how-to-create-or-customize-the-post-layout/" target="_blank" rel="noreferrer noopener">How to create or customize the post layout?</a></p>
+<!-- /wp:paragraph -->

@@ -1,0 +1,85 @@
+<!-- wp:paragraph -->
+<p>Our <a href="https://wordpress.org/plugins/post-grid/" target="_blank" rel="noreferrer noopener"><strong>Post Grid Combo</strong> </a>plugin will help you create a post grid by author. By reading this article, you'll get a clear idea about how to query posts by the author.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://youtu.be/QzCZ_sLnRAQ","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/QzCZ_sLnRAQ
+</div><figcaption class="wp-element-caption"><strong>It’s recommended to watch the video as it’ll be easier for you to understand.</strong></figcaption></figure>
+<!-- /wp:embed -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>First, click on the <strong>Query Post</strong> menu.<br>Now search for the author by using the<strong> Choose</strong> button. Here you will find four options; click your desired option.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/bZUsI96" data-context="false"><a href="//imgur.com/a/bZUsI96"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<!-- /wp:html -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p><strong>For Author:</strong><br>You can access the author dropdown menu by choosing the author. Next, type in the <strong>Author ID</strong>. According to the author's id, your Post Grid will update.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/Ojm5KtW" data-context="false"><a href="//imgur.com/a/Ojm5KtW"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<!-- /wp:html -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p><strong>For Author Name:</strong><br>You can access the "<strong>Author Name</strong>" dropdown menu by choosing the author name. Next, type in the author's name. According to the author's name, your Post Grid will update.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/u0i0Joi" data-context="false"><a href="//imgur.com/a/u0i0Joi"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<!-- /wp:html -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p><strong>For Author In:</strong><br>Here type the <strong>Author ID</strong>s <em>separated by a comma</em>. The post grid is then updated with the specified authors' posts.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/AD9SSiT" data-context="false"><a href="//imgur.com/a/AD9SSiT"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<!-- /wp:html -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p><strong>For Author Not in:</strong><br>Here type the <strong>Author ID</strong>. Now The post grid hides all the posts of the specified author.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/pZznijC" data-context="false"><a href="//imgur.com/a/pZznijC"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<!-- /wp:html -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>I hope this article will help you to query posts by the author. If you face any issues, please create a&nbsp;<a href="https://pickplugins.com/forum/" target="_blank" rel="noreferrer noopener">support ticket here</a>, and we'll get back to you asap.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Read Next: <a href="https://getpostgrid.com/docs/how-to-create-filterable-post-grid/">How to create Filterable Post Grid?</a></p>
+<!-- /wp:paragraph -->

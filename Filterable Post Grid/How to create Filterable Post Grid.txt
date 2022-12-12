@@ -1,0 +1,117 @@
+<!-- wp:paragraph -->
+<p>Our <a href="https://wordpress.org/plugins/post-grid/" data-type="URL" data-id="https://wordpress.org/plugins/post-grid/" target="_blank" rel="noreferrer noopener"><strong>Post Grid Combo</strong></a> plugin will help you create a filterable grid with extensive flexibility. If you're familiar with Gutenberg, then <a href="#" target="_blank" rel="noreferrer noopener">read this article</a>. We also provide a Filterable Grid block to make your task easier.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://youtu.be/QzCZ_sLnRAQ","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/QzCZ_sLnRAQ
+</div><figcaption class="wp-element-caption"><strong>It’s recommended to watch the video as it’ll be easier for you to understand.</strong></figcaption></figure>
+<!-- /wp:embed -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>From the left sidebar, click on the "<strong>Post Grid Combo</strong>" menu.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/qnvYbqD" data-context="false"><a href="//imgur.com/a/qnvYbqD"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<!-- /wp:html -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>Click the "<strong>Add New</strong>" button.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/sJWIPtq" data-context="false"><a href="//imgur.com/a/sJWIPtq"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<!-- /wp:html -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>Insert a post grid title, e.g., "<strong>Filterable Post Grid</strong>."</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/K8mcEbt" data-context="false"><a href="//imgur.com/a/K8mcEbt"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<!-- /wp:html -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>Now click the "<strong>Filterable</strong>" option.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/CBhjiJQ" data-context="false"><a href="//imgur.com/a/CBhjiJQ"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p><strong>Note:</strong> The filterable option appears with the pro version.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>From the "<strong>Post Taxonomies &amp; terms</strong>" section, now select "<strong>Categories (category)</strong>" and expand it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/ndLT4gq" data-context="false"><a href="//imgur.com/a/ndLT4gq"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>Insert terms or category names to filter them.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/1NhypKI" data-context="false"><a href="//imgur.com/a/1NhypKI"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>Click the "Publish" button to publish the "<strong>Filterable Post Grid</strong>."</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/sDf91KW" data-context="false"><a href="//imgur.com/a/sDf91KW"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<!-- /wp:html -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>Now copy the <strong>shortcode</strong> from the "<strong>All Post Grid</strong>" menu.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/HAo03dB" data-context="false"><a href="//imgur.com/a/HAo03dB"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<!-- /wp:html -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>Now paste the <strong>shortcode</strong> on your page and enjoy <strong>Filterable Post Grid</strong>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I hope this article will help you to create your filterable Grid. If you want to use our <strong>Post Grid Filterable block</strong>, then <a href="#" target="_blank" rel="noreferrer noopener">read here</a>. If you face any issues, please create a <a href="https://pickplugins.com/forum/" target="_blank" rel="noreferrer noopener">support ticket here</a>, and we'll get back to you asap.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Read Next: <a href="https://getpostgrid.com/docs/how-to-query-post-by-post-status/" data-type="URL" data-id="https://getpostgrid.com/docs/how-to-query-post-by-post-status/" target="_blank" rel="noreferrer noopener">How to query post by post status?</a></p>
+<!-- /wp:paragraph -->

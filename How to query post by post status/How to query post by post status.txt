@@ -1,0 +1,89 @@
+<!-- wp:paragraph -->
+<p>Our&nbsp;<a href="https://wordpress.org/plugins/post-grid/" target="_blank" rel="noreferrer noopener"><strong>Post Grid Combo</strong></a>&nbsp;plugin will help you query various types of posts by your&nbsp;<strong>Post Status</strong>. This article gives you a clear idea about how to query posts by various post statuses.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://youtu.be/QzCZ_sLnRAQ","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/QzCZ_sLnRAQ
+</div><figcaption class="wp-element-caption"><strong>It’s recommended to watch the video as it’ll be easier for you to understand.</strong></figcaption></figure>
+<!-- /wp:embed -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>You will find the <strong>Post Status</strong> option inside the <strong>Query Post</strong> menu.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/MhEUNGW" data-context="false"><a href="//imgur.com/a/MhEUNGW"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<!-- /wp:html -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>Now click on the "<strong>Post Status</strong>"<strong> </strong>drop-down menu.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/bOhL0r9" data-context="false"><a href="//imgur.com/a/bOhL0r9"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>Now you can query the post by their status.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p><strong>For Publish option:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you select <strong>Publish</strong> option, the <strong><a rel="noreferrer noopener" href="https://wordpress.org/plugins/post-grid/" target="_blank">Post Grid Combo</a></strong> will show your published posts.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/bOhL0r9" data-context="false"><a href="//imgur.com/a/bOhL0r9"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p id="block-19c0bebd-89a6-40c0-ac04-59b34e95f225"><strong><br>For Pending option:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p id="block-db76ef57-b87c-401d-bcb9-78ca57a23258">If you select the <strong>Pending</strong> option, the <strong><a rel="noreferrer noopener" href="https://wordpress.org/plugins/post-grid/" target="_blank">Post Grid Combo</a></strong> will show your pending posts.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/yKBmN5r" data-context="false"><a href="//imgur.com/a/yKBmN5r"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p id="block-19c0bebd-89a6-40c0-ac04-59b34e95f225"><strong><br>For Draft option:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>By selecting <strong>Draft</strong> option, the <strong><a rel="noreferrer noopener" href="https://wordpress.org/plugins/post-grid/" target="_blank">Post Grid Combo</a></strong> will show you the draft posts.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/BEwmcmy" data-context="false"><a href="//imgur.com/a/BEwmcmy"></a></blockquote><script async="" src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<!-- /wp:html -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>Hope this article will help you to query or search your post easily. If not, please create a <a href="https://pickplugins.com/forum/">support ticket here</a>, and we’ll get back to you asap. Also, you can provide us with a <a href="https://wordpress.org/support/plugin/post-grid/reviews/">review here</a>. Your review is much more beneficial to us. In fact, that’s how we improve!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Read Next: <a href="https://getpostgrid.com/docs/how-to-enable-infinite-loading/" data-type="URL" data-id="https://getpostgrid.com/docs/how-to-enable-infinite-loading/">How to enable Infinite Loading?</a></p>
+<!-- /wp:paragraph -->
