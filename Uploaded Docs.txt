@@ -24,9 +24,9 @@ Doc-5:
     Link: https://getpostgrid.com/docs/how-to-query-post-by-order-orderby/
 
 Doc-6: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to query post by tags?
+    Uploaded Date: DECEMBER 12, 2022
+    Link: https://getpostgrid.com/docs/how-to-query-post-by-tags/
 
 Doc-7: 
     Doc Name: 
