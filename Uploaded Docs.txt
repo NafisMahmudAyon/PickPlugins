@@ -32,11 +32,11 @@ Doc-07:
     Doc Name: How to query post by category?
     Uploaded Date: DECEMBER 12, 2022
     Link: https://getpostgrid.com/docs/how-to-query-post-by-category/
-    
+
 Doc-08: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to display AJAX pagination?
+    Uploaded Date: DECEMBER 12, 2022
+    Link: https://getpostgrid.com/docs/how-to-display-ajax-pagination/
 
 Doc-09: 
     Doc Name: 
