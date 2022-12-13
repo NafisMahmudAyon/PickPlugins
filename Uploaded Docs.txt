@@ -49,9 +49,9 @@ Doc-10:
     Link: https://getpostgrid.com/docs/how-to-display-normal-pagination/
 
 Doc-11: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to display Next-Previous pagination?
+    Uploaded Date: DECEMBER 13, 2022
+    Link: https://getpostgrid.com/docs/how-to-display-next-previous-pagination/
 
 Doc-12: 
     Doc Name: 
