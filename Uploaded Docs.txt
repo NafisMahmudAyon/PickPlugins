@@ -39,11 +39,26 @@ Doc-08:
     Link: https://getpostgrid.com/docs/how-to-display-ajax-pagination/
 
 Doc-09: 
+    Doc Name: How to enable load more?
+    Uploaded Date: DECEMBER 13, 2022
+    Link: https://getpostgrid.com/docs/how-to-enable-load-more/
+
+Doc-10: 
+    Doc Name: How to display normal pagination?
+    Uploaded Date: DECEMBER 13, 2022
+    Link: https://getpostgrid.com/docs/how-to-display-normal-pagination/
+
+Doc-11: 
     Doc Name: 
     Uploaded Date: 
     Link: 
 
-Doc-10: 
+Doc-12: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+
+Doc-13: 
     Doc Name: 
     Uploaded Date: 
     Link: 
