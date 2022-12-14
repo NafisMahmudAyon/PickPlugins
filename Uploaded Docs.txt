@@ -54,11 +54,21 @@ Doc-11:
     Link: https://getpostgrid.com/docs/how-to-display-next-previous-pagination/
 
 Doc-12: 
+    Doc Name: How to disable pagination?
+    Uploaded Date: DECEMBER 14, 2022
+    Link: https://getpostgrid.com/docs/how-to-disable-pagination/
+
+Doc-13: 
+    Doc Name: How to query post by post parent?
+    Uploaded Date: DECEMBER 14, 2022
+    Link: https://getpostgrid.com/docs/how-to-query-post-by-post-parent/
+
+Doc-14: 
     Doc Name: 
     Uploaded Date: 
     Link: 
 
-Doc-13: 
+Doc-15: 
     Doc Name: 
     Uploaded Date: 
     Link: 
