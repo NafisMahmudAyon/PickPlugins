@@ -96,7 +96,7 @@ Doc-19:
 Doc-20: 
     Doc Name: How to hide sticky posts on top?
     Uploaded Date: DECEMBER 18, 2022
-    Link: 
+    Link: https://getpostgrid.com/docs/how-to-hide-sticky-posts-on-top/
 
 Doc-21: 
     Doc Name: 
