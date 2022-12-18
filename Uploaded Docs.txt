@@ -69,16 +69,57 @@ Doc-14:
     Link: https://getpostgrid.com/docs/how-to-query-post-by-custom-taxonomies-terms/
 
 Doc-15: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to query post by post password?
+    Uploaded Date: DECEMBER 18, 2022
+    Link: https://getpostgrid.com/docs/how-to-query-post-by-post-password/
 
 Doc-16: 
+    Doc Name: How to display custom number of posts per page?
+    Uploaded Date: DECEMBER 18, 2022
+    Link: https://getpostgrid.com/docs/how-to-display-custom-number-of-posts-per-page/
+
+Doc-17: 
+    Doc Name: How to query older posts or order by date?
+    Uploaded Date: DECEMBER 18, 2022
+    Link: https://getpostgrid.com/docs/how-to-query-older-posts-or-order-by-date/
+
+Doc-18: How to query latest posts or order by date?
+    Doc Name: DECEMBER 18, 2022
+    Uploaded Date: https://getpostgrid.com/docs/how-to-query-latest-posts-or-order-by-date/
+    Link: 
+
+Doc-19: 
+    Doc Name: How to query posts by alphabetically?
+    Uploaded Date: DECEMBER 18, 2022
+    Link: https://getpostgrid.com/docs/how-to-query-posts-by-alphabetically/
+
+Doc-20: 
+    Doc Name: How to hide sticky posts on top?
+    Uploaded Date: DECEMBER 18, 2022
+    Link: 
+
+Doc-21: 
     Doc Name: 
     Uploaded Date: 
     Link: 
 
-Doc-17: 
+Doc-22: 
     Doc Name: 
     Uploaded Date: 
     Link: 
+
+Doc-23: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-24: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-25: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
