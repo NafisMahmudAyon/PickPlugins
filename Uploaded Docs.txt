@@ -83,10 +83,10 @@ Doc-17:
     Uploaded Date: DECEMBER 18, 2022
     Link: https://getpostgrid.com/docs/how-to-query-older-posts-or-order-by-date/
 
-Doc-18: How to query latest posts or order by date?
-    Doc Name: DECEMBER 18, 2022
-    Uploaded Date: https://getpostgrid.com/docs/how-to-query-latest-posts-or-order-by-date/
-    Link: 
+Doc-18: 
+    Doc Name: How to query latest posts or order by date?
+    Uploaded Date: DECEMBER 18, 2022
+    Link: https://getpostgrid.com/docs/how-to-query-latest-posts-or-order-by-date/
 
 Doc-19: 
     Doc Name: How to query posts by alphabetically?
@@ -99,19 +99,19 @@ Doc-20:
     Link: https://getpostgrid.com/docs/how-to-hide-sticky-posts-on-top/
 
 Doc-21: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to query posts order by post IDs?
+    Uploaded Date: DECEMBER 19, 2022
+    Link: https://getpostgrid.com/docs/how-to-query-posts-order-by-post-ids/
 
 Doc-22: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to set offset for query posts?
+    Uploaded Date: DECEMBER 19, 2022
+    Link: https://getpostgrid.com/docs/how-to-set-offset-for-query-posts/
 
 Doc-23: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to query post by post ids?
+    Uploaded Date: DECEMBER 19, 2022
+    Link: https://getpostgrid.com/docs/how-to-query-post-by-post-ids/
     
 Doc-24: 
     Doc Name: 

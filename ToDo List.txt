@@ -1,0 +1,84 @@
+Doc-01: 
+    Doc Name: How to use query presets?
+    Status: 
+    
+Doc-02: 
+    Doc Name: How to import post layouts?
+    Status: 
+
+Doc-03: 
+    Doc Name: How to query posts by excluded post ids?
+    Status: 
+
+Doc-04: 
+    Doc Name: How to query posts by posts or page ids?
+    Status: 
+
+Doc-05: 
+    Doc Name: How to query posts order by randmly?
+    Status: 
+
+Doc-06: 
+    Doc Name: How to query post order by custom fields?
+    Status: 
+
+Doc-07: 
+    Doc Name: How to style grid container?
+    Status: 
+
+Doc-08: 
+    Doc Name: How to style loop items?
+    Status: 
+
+Doc-09: 
+    Doc Name: How to create complex grid layout?
+    Status: 
+
+Doc-10: 
+    Doc Name: How to customize grid layout?
+    Status: 
+
+Doc-11: 
+    Doc Name: How to customize post layouts?
+    Status: 
+
+Doc-12: 
+    Doc Name: How to query post by date?
+    Status: Not ok
+
+Doc-13: 
+    Doc Name: How to query post by search parameter?
+    Status: 
+
+Doc-14: 
+    Doc Name: How to query post by custom meta fields?
+    Status: 
+
+Doc-15: 
+    Doc Name: How to query posts by custom post types?
+    Status: 
+
+Doc-16: 
+    Doc Name: How to customize post grid container
+    Status: 
+
+Doc-17: 
+    Doc Name: How to enable lazy loading?
+    Status: 
+
+Doc-18: 
+    Doc Name: How to customize pagination style?
+    Status: 
+
+Doc-19: 
+    Doc Name: 
+    Status: 
+
+Doc-20: 
+    Doc Name: 
+    Status: 
+
+Doc-21: 
+    Doc Name: 
+    Status: 
+
