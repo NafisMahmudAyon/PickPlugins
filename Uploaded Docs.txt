@@ -114,11 +114,61 @@ Doc-23:
     Link: https://getpostgrid.com/docs/how-to-query-post-by-post-ids/
     
 Doc-24: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to enable lazy loading?
+    Uploaded Date: DECEMBER 20, 2022
+    Link: https://getpostgrid.com/docs/how-to-enable-lazy-loading/
     
 Doc-25: 
+    Doc Name: How to query posts by posts or page ids?
+    Uploaded Date: DECEMBER 20, 2022
+    Link: https://getpostgrid.com/docs/how-to-query-posts-by-posts-or-page-ids/
+    
+Doc-26: 
+    Doc Name: How to query posts order by randomly?
+    Uploaded Date: DECEMBER 20, 2022
+    Link: https://getpostgrid.com/docs/how-to-query-posts-order-by-randomly/
+    
+Doc-27: 
+    Doc Name: How to create Filterable Post Grid?
+    Uploaded Date: DECEMBER 21, 2022
+    Link: https://getpostgrid.com/docs/how-to-create-filterable-post-grid-2/
+    
+Doc-28: 
+    Doc Name: How to use query presets?
+    Uploaded Date: DECEMBER 21, 2022
+    Link: https://getpostgrid.com/docs/how-to-use-query-presets/
+    
+Doc-29: 
+    Doc Name: How to query post by date?
+    Uploaded Date: DECEMBER 21, 2022
+    Link: https://getpostgrid.com/docs/how-to-query-post-by-date/
+    
+Doc-30: 
+    Doc Name: How to customize pagination style?
+    Uploaded Date: DECEMBER 22, 2022
+    Link: https://getpostgrid.com/docs/how-to-customize-pagination-style/
+    
+Doc-31: 
+    Doc Name: How to query posts by excluded post ids?
+    Uploaded Date: DECEMBER 22, 2022
+    Link: https://getpostgrid.com/docs/how-to-query-posts-by-excluded-post-ids/
+    
+Doc-32: 
+    Doc Name: How to import post layouts?
+    Uploaded Date: DECEMBER 22, 2022
+    Link: https://getpostgrid.com/docs/how-to-import-post-layouts/
+    
+Doc-33: 
+    Doc Name: How to style grid container?
+    Uploaded Date: DECEMBER 22, 2022
+    Link: https://getpostgrid.com/docs/how-to-style-grid-container/
+    
+Doc-34: 
+    Doc Name: How to style loop items?
+    Uploaded Date: DECEMBER 22, 2022
+    Link: https://getpostgrid.com/docs/how-to-style-loop-items/
+    
+Doc-35: 
     Doc Name: 
     Uploaded Date: 
     Link: 

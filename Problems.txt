@@ -1,0 +1,23 @@
+Block Name: Post Title
+    Problem: Font Size can't edit,
+
+Block Name: Post Author >> Name
+    Problem: Font Size can't edit, line height can't edit, Letter Spacing can't edit, Color Changed when link to any link,
+
+Block Name: Author Fields >> Feild Setting
+    Problem: Font Size can't edit,
+
+Block Name: Post Categories >> Items
+    Problem: Font Size can't edit,
+
+Block Name: Post Date >> Feild Setting
+    Problem: Font Size can't edit, Color Changed when link to any link,
+
+Block Name: List >> Icon >> Typography
+    Problem: Font Size can't edit,
+
+
+Query Post >> Date Query
+    Problem: After setup value not show, compare not working.
+
+
