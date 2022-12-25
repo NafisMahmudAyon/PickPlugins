@@ -169,6 +169,31 @@ Doc-34:
     Link: https://getpostgrid.com/docs/how-to-style-loop-items/
     
 Doc-35: 
+    Doc Name: How to query post order by custom fields?
+    Uploaded Date: DECEMBER 25, 2022
+    Link: https://getpostgrid.com/docs/how-to-query-post-order-by-custom-fields/
+    
+Doc-36: 
+    Doc Name: How to query posts by custom post types?
+    Uploaded Date: DECEMBER 25, 2022
+    Link: https://getpostgrid.com/docs/how-to-query-posts-by-custom-post-types/
+    
+Doc-37: 
+    Doc Name: How to customize post layouts?
+    Uploaded Date: DECEMBER 25, 2022
+    Link: https://getpostgrid.com/docs/how-to-customize-post-layouts/
+    
+Doc-38: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-39: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-40: 
     Doc Name: 
     Uploaded Date: 
     Link: 
