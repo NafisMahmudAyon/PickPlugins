@@ -184,16 +184,51 @@ Doc-37:
     Link: https://getpostgrid.com/docs/how-to-customize-post-layouts/
     
 Doc-38: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to query post by custom meta fields?
+    Uploaded Date: DECEMBER 26, 2022
+    Link: https://getpostgrid.com/docs/how-to-query-post-by-custom-meta-fields/
     
 Doc-39: 
+    Doc Name: How to create complex grid layout?
+    Uploaded Date: DECEMBER 26, 2022
+    Link: https://getpostgrid.com/docs/how-to-create-complex-grid-layout/
+    
+Doc-40: 
+    Doc Name: How to query posts by comment counts?
+    Uploaded Date: DECEMBER 26, 2022
+    Link: https://getpostgrid.com/docs/how-to-query-posts-by-comment-counts/
+    
+Doc-41: 
+    Doc Name: How to use query child pages or posts?
+    Uploaded Date: DECEMBER 26, 2022
+    Link: https://getpostgrid.com/docs/how-to-use-query-child-pages-or-posts/
+    
+Doc-42: 
     Doc Name: 
     Uploaded Date: 
     Link: 
     
-Doc-40: 
+Doc-43: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-44: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-45: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-46: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-47: 
     Doc Name: 
     Uploaded Date: 
     Link: 
