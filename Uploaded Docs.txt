@@ -204,31 +204,96 @@ Doc-41:
     Link: https://getpostgrid.com/docs/how-to-use-query-child-pages-or-posts/
     
 Doc-42: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to display Sort Filter?
+    Uploaded Date: DECEMBER 28, 2022
+    Link: https://getpostgrid.com/docs/how-to-display-sort-filter/
     
 Doc-43: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to display Random Filter?
+    Uploaded Date: DECEMBER 28, 2022
+    Link: https://getpostgrid.com/docs/how-to-display-random-filter/
     
 Doc-44: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to display All Filter?
+    Uploaded Date: DECEMBER 28, 2022
+    Link: https://getpostgrid.com/docs/how-to-display-all-filter/
     
 Doc-45: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to set Items Per Page for filterable grid?
+    Uploaded Date: DECEMBER 28, 2022
+    Link: https://getpostgrid.com/docs/how-to-set-items-per-page-for-filterable-grid/
     
 Doc-46: 
+    Doc Name: How to enable pagination for filterable grid?
+    Uploaded Date: DECEMBER 28, 2022
+    Link: https://getpostgrid.com/docs/how-to-enable-pagination-for-filterable-grid/
+    
+Doc-47: 
+    Doc Name: How to display the post count with the filter label?
+    Uploaded Date: DECEMBER 28, 2022
+    Link: https://getpostgrid.com/docs/how-to-display-the-post-count-with-the-filter-label/
+    
+Doc-48: 
+    Doc Name: How to customize pagination style for filterable grid?
+    Uploaded Date: DECEMBER 28, 2022
+    Link: https://getpostgrid.com/docs/how-to-customize-pagination-style-for-filterable-grid/
+    
+Doc-49: 
+    Doc Name: How to style filters groups?
+    Uploaded Date: DECEMBER 29, 2022
+    Link: https://getpostgrid.com/docs/how-to-style-filters-groups/
+    
+Doc-50: 
+    Doc Name: How to add filters to filterable grid?
+    Uploaded Date: DECEMBER 29, 2022
+    Link: https://getpostgrid.com/docs/how-to-add-filters-to-filterable-grid/
+    
+Doc-51: 
+    Doc Name: How to style filters and active filters?
+    Uploaded Date: DECEMBER 29, 2022
+    Link: https://getpostgrid.com/docs/how-to-style-filters-and-active-filters/
+    
+Doc-52: 
+    Doc Name: How to enable filterable grid with multi-filter?
+    Uploaded Date: DECEMBER 29, 2022
+    Link: https://getpostgrid.com/docs/how-to-enable-filterable-grid-with-multi-filter/
+    
+Doc-53: 
     Doc Name: 
     Uploaded Date: 
     Link: 
     
-Doc-47: 
+Doc-54: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-55: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-56: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-57: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-58: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-59: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-60: 
     Doc Name: 
     Uploaded Date: 
     Link: 
