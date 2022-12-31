@@ -264,36 +264,86 @@ Doc-53:
     Link: https://getpostgrid.com/docs/how-to-show-dropdown-radio-checkbox-style-filters/
     
 Doc-54: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to Post Title limit by word or character count?
+    Uploaded Date: DECEMBER 31, 2022
+    Link: https://getpostgrid.com/docs/how-to-post-title-limit-by-word-or-character-count/
     
 Doc-55: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to post title link to Home URL?
+    Uploaded Date: DECEMBER 31, 2022
+    Link: https://getpostgrid.com/docs/how-to-post-title-link-to-home-url/
     
 Doc-56: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to post title link to Author Link?
+    Uploaded Date: DECEMBER 31, 2022
+    Link: https://getpostgrid.com/docs/how-to-post-title-link-to-author-link/
     
 Doc-57: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to post title link to Author Mail?
+    Uploaded Date: DECEMBER 31, 2022
+    Link: https://getpostgrid.com/docs/how-to-post-title-link-to-author-mail/
     
 Doc-58: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to post title link to Custom URL?
+    Uploaded Date: DECEMBER 31, 2022
+    Link: https://getpostgrid.com/docs/how-to-post-title-link-to-custom-url/
     
 Doc-59: 
+    Doc Name: How to post title link to Author Meta values?
+    Uploaded Date: DECEMBER 31, 2022
+    Link: https://getpostgrid.com/docs/how-to-post-title-link-to-author-meta-values/
+    
+Doc-60: 
+    Doc Name: How to post title link to Custom Meta fields?
+    Uploaded Date: DECEMBER 31, 2022
+    Link: https://getpostgrid.com/docs/how-to-post-title-link-to-custom-meta-fields/
+    
+Doc-61: 
     Doc Name: 
     Uploaded Date: 
     Link: 
     
-Doc-60: 
+Doc-62: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-63: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-64: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-65: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-66: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-67: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-68: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-69: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-70: 
     Doc Name: 
     Uploaded Date: 
     Link: 
