@@ -299,29 +299,29 @@ Doc-60:
     Link: https://getpostgrid.com/docs/how-to-post-title-link-to-custom-meta-fields/
     
 Doc-61: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to add Custom Attributes to post title?
+    Uploaded Date: JANUARY 1, 2023
+    Link: https://getpostgrid.com/docs/how-to-add-custom-attributes-to-post-title/
     
 Doc-62: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to add prefix and postfix text to post title?
+    Uploaded Date: JANUARY 1, 2023
+    Link: https://getpostgrid.com/docs/how-to-add-prefix-and-postfix-text-to-post-title/
     
 Doc-63: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to customize Post Title link target?
+    Uploaded Date: JANUARY 1, 2023
+    Link: https://getpostgrid.com/docs/how-to-customize-post-title-link-target/
     
 Doc-64: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to customize post title wrapper tag?
+    Uploaded Date: JANUARY 1, 2023
+    Link: https://getpostgrid.com/docs/how-to-customize-post-title-wrapper-tag/
     
 Doc-65: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to style post Title?
+    Uploaded Date: JANUARY 1, 2023
+    Link: https://getpostgrid.com/docs/how-to-style-post-title/
     
 Doc-66: 
     Doc Name: 
