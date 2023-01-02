@@ -324,19 +324,19 @@ Doc-65:
     Link: https://getpostgrid.com/docs/how-to-style-post-title/
     
 Doc-66: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to Post excerpt limit by word or character count?
+    Uploaded Date: JANUARY 2, 2023
+    Link: https://getpostgrid.com/docs/how-to-post-excerpt-limit-by-word-or-character-count/
     
 Doc-67: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to add Custom Attributes to post excerpt?
+    Uploaded Date: JANUARY 2, 2023
+    Link: https://getpostgrid.com/docs/how-to-add-custom-attributes-to-post-excerpt/
     
 Doc-68: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to post excerpt link to Custom URL?
+    Uploaded Date: JANUARY 2, 2023
+    Link: https://getpostgrid.com/docs/how-to-post-excerpt-link-to-custom-url/
     
 Doc-69: 
     Doc Name: 
