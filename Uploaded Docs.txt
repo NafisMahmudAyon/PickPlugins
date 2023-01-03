@@ -344,29 +344,29 @@ Doc-69:
     Link: https://getpostgrid.com/docs/how-to-add-custom-attributes-to-read-more/
     
 Doc-70: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to change post excerpt sources?
+    Uploaded Date: JANUARY 3, 2023
+    Link: https://getpostgrid.com/docs/how-to-change-post-excerpt-sources/
     
 Doc-71: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to keep HTML on post excerpt?
+    Uploaded Date: JANUARY 3, 2023
+    Link: https://getpostgrid.com/docs/how-to-keep-html-on-post-excerpt/
     
 Doc-72: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to remove shortcodes from post excerpt?
+    Uploaded Date: JANUARY 3, 2023
+    Link: https://getpostgrid.com/docs/how-to-remove-shortcodes-from-post-excerpt/
     
 Doc-73: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to remove blocks from post excerpt?
+    Uploaded Date: JANUARY 3, 2023
+    Link: https://getpostgrid.com/docs/how-to-remove-blocks-from-post-excerpt/
     
 Doc-74: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to add prefix and postfix text to post excerpt?
+    Uploaded Date: JANUARY 3, 2023
+    Link: https://getpostgrid.com/docs/how-to-add-prefix-and-postfix-text-to-post-excerpt/
     
 Doc-75: 
     Doc Name: 
