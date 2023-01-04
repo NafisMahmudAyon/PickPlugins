@@ -369,16 +369,71 @@ Doc-74:
     Link: https://getpostgrid.com/docs/how-to-add-prefix-and-postfix-text-to-post-excerpt/
     
 Doc-75: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to customize post excerpt typography?
+    Uploaded Date: JANUARY 4, 2023
+    Link: https://getpostgrid.com/docs/how-to-customize-post-excerpt-typography/
     
 Doc-76: 
+    Doc Name: How to customize Post excerpt link target?
+    Uploaded Date: JANUARY 4, 2023
+    Link: https://getpostgrid.com/docs/how-to-customize-post-excerpt-link-target/
+    
+Doc-77: 
+    Doc Name: How to style post excerpt text?
+    Uploaded Date: JANUARY 4, 2023
+    Link: https://getpostgrid.com/docs/how-to-style-post-excerpt-text/
+    
+Doc-78: 
+    Doc Name: How to style read more text?
+    Uploaded Date: JANUARY 4, 2023
+    Link: https://getpostgrid.com/docs/how-to-style-read-more-text/
+    
+Doc-79: 
+    Doc Name: How to customize post excerpt Wrapper Tag?
+    Uploaded Date: JANUARY 4, 2023
+    Link: https://getpostgrid.com/docs/how-to-customize-post-excerpt-wrapper-tag/
+    
+Doc-80: 
+    Doc Name: How to enable auto paragraph for post excerpt?
+    Uploaded Date: JANUARY 4, 2023
+    Link: https://getpostgrid.com/docs/how-to-enable-auto-paragraph-for-post-excerpt/
+    
+Doc-81: 
     Doc Name: 
     Uploaded Date: 
     Link: 
     
-Doc-77: 
+Doc-82: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-83: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-84: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-85: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-86: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-87: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-88: 
     Doc Name: 
     Uploaded Date: 
     Link: 
