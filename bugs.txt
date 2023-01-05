@@ -1,0 +1,5 @@
+######05-01-2023######
+=>> (Author Fields Block) Author Fields - Nick name not showing.
+=>> (Author Fields Block) Field Setting - Font size break issue.
+=>> (Author Fields Block) Icon - Font size break issue.
+=>> (Author Fields Block) It is by default linked with the post link.

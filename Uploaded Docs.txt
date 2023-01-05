@@ -399,29 +399,29 @@ Doc-80:
     Link: https://getpostgrid.com/docs/how-to-enable-auto-paragraph-for-post-excerpt/
     
 Doc-81: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to add different type of author fields?
+    Uploaded Date: JANUARY 5, 2023
+    Link: https://getpostgrid.com/docs/how-to-add-different-type-of-author-fields/
     
 Doc-82: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to customize author fields icon?
+    Uploaded Date: JANUARY 5, 2023
+    Link: https://getpostgrid.com/docs/how-to-customize-author-fields-icon/
     
 Doc-83: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to link author fields to different type of URL?
+    Uploaded Date: JANUARY 5, 2023
+    Link: https://getpostgrid.com/docs/how-to-link-author-fields-to-different-type-of-url/
     
 Doc-84: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to link author fields to custom url?
+    Uploaded Date: JANUARY 5, 2023
+    Link: https://getpostgrid.com/docs/how-to-link-author-fields-to-custom-url/
     
 Doc-85: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to link author fields to custom field values?
+    Uploaded Date: JANUARY 5, 2023
+    Link: https://getpostgrid.com/docs/how-to-link-author-fields-to-custom-field-values/
     
 Doc-86: 
     Doc Name: 
