@@ -424,16 +424,71 @@ Doc-85:
     Link: https://getpostgrid.com/docs/how-to-link-author-fields-to-custom-field-values/
     
 Doc-86: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to add/remove element for Post Author?
+    Uploaded Date: JANUARY 7, 2023
+    Link: https://getpostgrid.com/docs/how-to-add-remove-element-for-post-author/
     
 Doc-87: 
+    Doc Name: How to customize post author avatar?
+    Uploaded Date: JANUARY 7, 2023
+    Link: https://getpostgrid.com/docs/how-to-customize-post-author-avatar/
+    
+Doc-88: 
+    Doc Name: How to customize post author name?
+    Uploaded Date: JANUARY 7, 2023
+    Link: https://getpostgrid.com/docs/how-to-customize-post-author-name/
+    
+Doc-89: 
+    Doc Name: How to customize post author description?
+    Uploaded Date: JANUARY 7, 2023
+    Link: https://getpostgrid.com/docs/how-to-customize-post-author-description/
+    
+Doc-90: 
+    Doc Name: How to link post name to different type of URL?
+    Uploaded Date: JANUARY 7, 2023
+    Link: https://getpostgrid.com/docs/how-to-link-post-name-to-different-type-of-url/
+    
+Doc-91: 
+    Doc Name: How to link post name to custom url?
+    Uploaded Date: JANUARY 7, 2023
+    Link: https://getpostgrid.com/docs/how-to-link-post-name-to-custom-url/
+    
+Doc-92: 
+    Doc Name: How to style author fields?
+    Uploaded Date: JANUARY 7, 2023
+    Link: https://getpostgrid.com/docs/how-to-style-author-fields/
+    
+Doc-93: 
+    Doc Name: How to add and style custom front text?
+    Uploaded Date: JANUARY 7, 2023
+    Link: https://getpostgrid.com/docs/how-to-add-and-style-custom-front-text/
+    
+Doc-94: 
     Doc Name: 
     Uploaded Date: 
     Link: 
     
-Doc-88: 
+Doc-95: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-96: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-97: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-98: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-99: 
     Doc Name: 
     Uploaded Date: 
     Link: 
