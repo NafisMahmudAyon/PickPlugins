@@ -464,31 +464,71 @@ Doc-93:
     Link: https://getpostgrid.com/docs/how-to-add-and-style-custom-front-text/
     
 Doc-94: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to set prefix and postfix for post categories?
+    Uploaded Date: JANUARY 8, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-prefix-and-postfix-for-post-categories/
     
 Doc-95: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to set custom separator for post categories?
+    Uploaded Date: JANUARY 8, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-custom-separator-for-post-categories/
     
 Doc-96: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to style front text for post categories?
+    Uploaded Date: JANUARY 8, 2023
+    Link: https://getpostgrid.com/docs/how-to-style-front-text-for-post-categories/
     
 Doc-97: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to set custom text on front for post categories?
+    Uploaded Date: JANUARY 8, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-custom-text-on-front-for-post-categories/
     
 Doc-98: 
+    Doc Name: How to style icons for post categories?
+    Uploaded Date: JANUARY 8, 2023
+    Link: https://getpostgrid.com/docs/how-to-style-icons-for-post-categories/
+    
+Doc-99: 
+    Doc Name: How to set icons for post categories?
+    Uploaded Date: JANUARY 8, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-icons-for-post-categories/
+    
+Doc-100: 
+    Doc Name: How to display Post Count?
+    Uploaded Date: JANUARY 8, 2023
+    Link: https://getpostgrid.com/docs/how-to-display-post-count/
+    
+Doc-101: 
+    Doc Name: How to link post name to custom field values?
+    Uploaded Date: JANUARY 8, 2023
+    Link: https://getpostgrid.com/docs/how-to-link-post-name-to-custom-field-values/
+    
+Doc-102: 
+    Doc Name: How to change Wrapper Tag for Post Author?
+    Uploaded Date: JANUARY 8, 2023
+    Link: https://getpostgrid.com/docs/how-to-change-wrapper-tag-for-post-author/
+    
+Doc-103: 
     Doc Name: 
     Uploaded Date: 
     Link: 
     
-Doc-99: 
+Doc-104: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-105: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-106: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-107: 
     Doc Name: 
     Uploaded Date: 
     Link: 
