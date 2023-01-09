@@ -509,26 +509,91 @@ Doc-102:
     Link: https://getpostgrid.com/docs/how-to-change-wrapper-tag-for-post-author/
     
 Doc-103: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to set max amount of items?
+    Uploaded Date: JANUARY 9, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-max-amount-of-items/
     
 Doc-104: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to set custom attributes on post category?
+    Uploaded Date: JANUARY 9, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-custom-attributes-on-post-category/
     
 Doc-105: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to style post categories?
+    Uploaded Date: JANUARY 9, 2023
+    Link: https://getpostgrid.com/docs/how-to-style-post-categories/
     
 Doc-106: 
+    Doc Name: How to set custom text on front for post tags?
+    Uploaded Date: JANUARY 9, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-custom-text-on-front-for-post-tags/
+    
+Doc-107: 
+    Doc Name: How to style icons for post tags?
+    Uploaded Date: JANUARY 9, 2023
+    Link: https://getpostgrid.com/docs/how-to-style-icons-for-post-tags/
+    
+Doc-108: 
+    Doc Name: How to set icons for post tags?
+    Uploaded Date: JANUARY 9, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-icons-for-post-tags/
+    
+Doc-109: 
+    Doc Name: How to set custom attributes on post tags?
+    Uploaded Date: JANUARY 9, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-custom-attributes-on-post-tags/
+    
+Doc-110: 
+    Doc Name: How to display Post Count?
+    Uploaded Date: JANUARY 9, 2023
+    Link: https://getpostgrid.com/docs/how-to-display-post-count-2/
+    
+Doc-111: 
     Doc Name: 
     Uploaded Date: 
     Link: 
     
-Doc-107: 
+Doc-112: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-113: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-114: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-115: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-116: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-117: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-118: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-119: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-120: 
     Doc Name: 
     Uploaded Date: 
     Link: 
