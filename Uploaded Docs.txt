@@ -545,50 +545,90 @@ Doc-109:
     
 Doc-110: 
     Doc Name: How to display Post Count?
-    Uploaded Date: JANUARY 9, 2023
+    Uploaded Date: 
     Link: https://getpostgrid.com/docs/how-to-display-post-count-2/
     
 Doc-111: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to set max amount of items?
+    Uploaded Date: JANUARY 10, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-max-amount-of-items-2/
     
 Doc-112: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to set custom separator for post tags?
+    Uploaded Date: JANUARY 10, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-custom-separator-for-post-tags/
     
 Doc-113: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to set prefix and postfix for post tags?
+    Uploaded Date: JANUARY 10, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-prefix-and-postfix-for-post-tags/
     
 Doc-114: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to style front text for post tags?
+    Uploaded Date: JANUARY 10, 2023
+    Link: https://getpostgrid.com/docs/how-to-style-front-text-for-post-tags/
     
 Doc-115: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to style post tags?
+    Uploaded Date: JANUARY 10, 2023
+    Link: https://getpostgrid.com/docs/how-to-style-post-tags/
     
 Doc-116: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to display Post Count?
+    Uploaded Date: JANUARY 10, 2023
+    Link: https://getpostgrid.com/docs/how-to-display-post-count-3/
     
 Doc-117: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
+    Doc Name: How to set prefix and postfix for post terms?
+    Uploaded Date: JANUARY 10, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-prefix-and-postfix-for-post-terms/
     
 Doc-118: 
+    Doc Name: How to set custom separator for post taxonomies?
+    Uploaded Date: JANUARY 10, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-prefix-and-postfix-for-post-terms/
+    
+Doc-119: 
+    Doc Name: How to set max amount of items?
+    Uploaded Date: JANUARY 10, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-max-amount-of-items-3/
+    
+Doc-120: 
+    Doc Name: How to set icons for post terms?
+    Uploaded Date: JANUARY 10, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-icons-for-post-terms/
+    
+Doc-120: 
+    Doc Name: 
+    Uploaded Date: JANUARY 10, 2023
+    Link: 
+    
+Doc-120: 
     Doc Name: 
     Uploaded Date: 
     Link: 
     
-Doc-119: 
+Doc-120: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-120: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-120: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-120: 
+    Doc Name: 
+    Uploaded Date: 
+    Link: 
+    
+Doc-120: 
     Doc Name: 
     Uploaded Date: 
     Link: 
