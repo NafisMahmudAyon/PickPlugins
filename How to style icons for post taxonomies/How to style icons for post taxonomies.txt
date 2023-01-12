@@ -1,0 +1,13 @@
+You can customize the "Post Taxonomies" icon using the Post Grid Combo plugin. This article will help you to style the post-taxonomies icons.
+
+To begin, insert the "Post Taxonomies" block.
+
+Click on the "Icon" tab.
+
+Click on Choose Icon button to select the icon.
+
+Now select the icon position by clicking the dropdown options.
+
+Now you can add "Color" and "Background Color" to style the icon, select the display style, and add some padding-margin.
+
+In the typography section, you can adjust the "Font Size," "Line Height," and "Font Weight."

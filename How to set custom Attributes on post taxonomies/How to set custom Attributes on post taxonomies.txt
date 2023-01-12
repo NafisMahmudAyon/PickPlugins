@@ -1,0 +1,8 @@
+Using the Post Grid Combo plugin, you can set the custom attribute for the "Post Taxonomies." This article will help you set the custom attribute for the post-taxonomies.
+
+To begin, insert the "Post Taxonomies" block.
+
+Click on the "Items" tab.
+
+Click on the custom attribute "ADD" button to set the custom attribute.
+Enter attribute name and value. 

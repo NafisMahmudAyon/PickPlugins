@@ -1,0 +1,13 @@
+You can style custom front text to the "Post Taxonomies" using the Post Grid Combo plugin. This article will help you to style the custom post taxonomies.
+
+To begin, insert the "Post Taxonomies" block.
+
+Click on the "Front Text" tab.
+
+You can change the "front text" by adding some text.
+
+You can customize the "Color" and "Background Color."
+
+In the typography section, you can change the "Font Family," "Font Size," "Line Height," "Letter Spacing," "Font Weight," "Text Transform," and "Text Decoration."
+
+Using this method, you can add and style the "Front Text."

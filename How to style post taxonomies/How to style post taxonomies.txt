@@ -1,0 +1,11 @@
+You can style the "Post Taxonomies" using the Post Grid Combo plugin. This article will help you to style the post-taxonomies.
+
+To begin, insert the "Post Taxonomies" block.
+
+Click on the "Items" tab.
+
+You can add prefixes and postfixes to the post-taxonomies.
+
+You can customize the "Color" and "Background Color" and add some "Margin" and "Padding" for your post taxonomies.
+
+In the typography section, you can change the "Font Family," "Font Size," "Line Height," "Letter Spacing," "Font Weight," "Text Transform," and "Text Decoration."

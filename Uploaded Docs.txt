@@ -598,43 +598,93 @@ Doc-120:
     Uploaded Date: JANUARY 10, 2023
     Link: https://getpostgrid.com/docs/how-to-set-icons-for-post-terms/
     
-Doc-120: 
+Doc-121: 
+    Doc Name: How to set custom Attributes on post taxonomies?
+    Uploaded Date: JANUARY 12, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-custom-attributes-on-post-taxonomies/
+    
+Doc-122: 
+    Doc Name: How to style front text for post taxonomies?
+    Uploaded Date: JANUARY 12, 2023
+    Link: https://getpostgrid.com/docs/how-to-style-front-text-for-post-taxonomies/
+    
+Doc-123: 
+    Doc Name: How to style post taxonomies?
+    Uploaded Date: JANUARY 12, 2023
+    Link: https://getpostgrid.com/docs/how-to-style-post-taxonomies/
+    
+Doc-124: 
+    Doc Name: How to style icons for post taxonomies?
+    Uploaded Date: JANUARY 12, 2023
+    Link: https://getpostgrid.com/docs/how-to-style-icons-for-post-taxonomies/
+    
+Doc-125: 
+    Doc Name: How to set custom text on front for post taxonomies?
+    Uploaded Date: JANUARY 12, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-custom-text-on-front-for-post-taxonomies/
+    
+Doc-126: 
+    Doc Name: How to link post date to custom fields?
+    Uploaded Date: JANUARY 12, 2023
+    Link: https://getpostgrid.com/docs/how-to-link-post-date-to-custom-fields/
+    
+Doc-127: 
+    Doc Name: How to link post date to URL?
+    Uploaded Date: JANUARY 12, 2023
+    Link: https://getpostgrid.com/docs/how-to-link-post-date-to-url/
+    
+Doc-128: 
+    Doc Name: How to set icon for post date?
+    Uploaded Date: JANUARY 12, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-icon-for-post-date/
+    
+Doc-129: 
+    Doc Name: How to set custom date format?
+    Uploaded Date: JANUARY 12, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-custom-date-format/
+    
+Doc-130: 
+    Doc Name: How to style post date?
+    Uploaded Date: JANUARY 12, 2023
+    Link: https://getpostgrid.com/docs/how-to-style-post-date/
+    
+Doc-131: 
+    Doc Name: How to style icon for post date?
+    Uploaded Date: JANUARY 12, 2023
+    Link: https://getpostgrid.com/docs/how-to-style-icon-for-post-date/
+    
+Doc-132: 
+    Doc Name: How to link Read More to URL?
+    Uploaded Date: JANUARY 12, 2023
+    Link: https://getpostgrid.com/docs/how-to-link-read-more-to-url/
+    
+Doc-133: 
     Doc Name: 
-    Uploaded Date: JANUARY 10, 2023
+    Uploaded Date: JANUARY 12, 2023
+    Link: https://getpostgrid.com/docs/how-to-link-read-more-to-custom-fields/
+    
+Doc-134: 
+    Doc Name: 
+    Uploaded Date: JANUARY 12, 2023
     Link: 
     
-Doc-120: 
+Doc-135: 
     Doc Name: 
-    Uploaded Date: 
+    Uploaded Date: JANUARY 12, 2023
     Link: 
     
-Doc-120: 
+Doc-136: 
     Doc Name: 
-    Uploaded Date: 
+    Uploaded Date: JANUARY 12, 2023
     Link: 
     
-Doc-120: 
+Doc-137: 
     Doc Name: 
-    Uploaded Date: 
+    Uploaded Date: JANUARY 12, 2023
     Link: 
     
-Doc-120: 
+Doc-138: 
     Doc Name: 
-    Uploaded Date: 
-    Link: 
-    
-Doc-120: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
-    
-Doc-120: 
-    Doc Name: 
-    Uploaded Date: 
-    Link: 
-    
-Doc-120: 
-    Doc Name: 
-    Uploaded Date: 
+    Uploaded Date: JANUARY 12, 2023
     Link: 
     
