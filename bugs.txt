@@ -8,6 +8,16 @@
 taxonomies front text font issue
 
 
-taxonomies items display not found inline block
+taxonomies items display not found inline-block
 
 postdate 
+
+
+
+post excerpt with out read more there are extra anchor text.
+
+accordion icon font size break
+accordion icon color frontend not showing
+header active color frontend not showing
+
+

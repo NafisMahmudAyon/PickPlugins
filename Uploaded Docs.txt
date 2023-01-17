@@ -754,34 +754,34 @@ Doc-151:
     Link: https://getpostgrid.com/docs/how-to-add-custom-attributes-for-icon-button-link/
     
 Doc-152: 
-    Doc Name: 
-    Uploaded Date: JANUARY 16, 2023
-    Link: 
+    Doc Name: How to set accordion header icon toggle?
+    Uploaded Date: JANUARY 17, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-accordion-header-icon-toggle/
     
 Doc-153: 
-    Doc Name: 
-    Uploaded Date: JANUARY 16, 2023
-    Link: 
+    Doc Name: How to set accordion header icon position?
+    Uploaded Date: JANUARY 17, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-accordion-header-icon-position/
     
 Doc-154: 
-    Doc Name: 
-    Uploaded Date: JANUARY 16, 2023
-    Link: 
+    Doc Name: How to style accordion header icons?
+    Uploaded Date: JANUARY 17, 2023
+    Link: https://getpostgrid.com/docs/how-to-style-accordion-header-icons/
     
 Doc-155: 
-    Doc Name: 
-    Uploaded Date: JANUARY 16, 2023
-    Link: 
+    Doc Name: How to set accordion header icons?
+    Uploaded Date: JANUARY 17, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-accordion-header-icons/
     
 Doc-156: 
-    Doc Name: 
-    Uploaded Date: JANUARY 16, 2023
-    Link: 
+    Doc Name: How to style accordion content?
+    Uploaded Date: JANUARY 17, 2023
+    Link: https://getpostgrid.com/docs/how-to-style-accordion-content/
     
 Doc-157: 
-    Doc Name: 
-    Uploaded Date: JANUARY 16, 2023
-    Link: 
+    Doc Name: How to style accordion header?
+    Uploaded Date: JANUARY 17, 2023
+    Link: https://getpostgrid.com/docs/how-to-style-accordion-header/
     
 Doc-158: 
     Doc Name: 
