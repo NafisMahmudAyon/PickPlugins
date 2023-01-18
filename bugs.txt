@@ -20,4 +20,12 @@ accordion icon font size break
 accordion icon color frontend not showing
 header active color frontend not showing
 
+tabs icon toggle not working
+font size issue
+icon color issue
+
+
+category font size issue
+tags font size issue
+taxonomies font size issue
 

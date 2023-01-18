@@ -784,11 +784,51 @@ Doc-157:
     Link: https://getpostgrid.com/docs/how-to-style-accordion-header/
     
 Doc-158: 
+    Doc Name: How  to style Tabs navs?
+    Uploaded Date: JANUARY 18, 2023
+    Link: https://getpostgrid.com/docs/how-to-style-tabs-navs/
+    
+Doc-159: 
+    Doc Name: How  to style Tabs content?
+    Uploaded Date: JANUARY 18, 2023
+    Link: https://getpostgrid.com/docs/how-to-style-tabs-content/
+    
+Doc-160: 
+    Doc Name: How  to set Tabs navs icons?
+    Uploaded Date: JANUARY 18, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-tabs-navs-icons/
+    
+Doc-160: 
+    Doc Name: How to style Tabs navs icons?
+    Uploaded Date: JANUARY 18, 2023
+    Link: https://getpostgrid.com/docs/how-to-style-tabs-navs-icons/
+    
+Doc-160: 
+    Doc Name: How  to set Tabs navs  icon position?
+    Uploaded Date: JANUARY 18, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-tabs-navs-icon-position/
+    
+Doc-160: 
+    Doc Name: How to change tabs navs positions?
+    Uploaded Date: JANUARY 18, 2023
+    Link: https://getpostgrid.com/docs/how-to-change-tabs-navs-positions/
+    
+Doc-160: 
+    Doc Name: 
+    Uploaded Date: JANUARY 18, 2023
+    Link: 
+    
+Doc-160: 
     Doc Name: 
     Uploaded Date: JANUARY 16, 2023
     Link: 
     
-Doc-159: 
+Doc-160: 
+    Doc Name: 
+    Uploaded Date: JANUARY 16, 2023
+    Link: 
+    
+Doc-160: 
     Doc Name: 
     Uploaded Date: JANUARY 16, 2023
     Link: 
