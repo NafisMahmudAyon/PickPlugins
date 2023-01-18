@@ -29,3 +29,6 @@ category font size issue
 tags font size issue
 taxonomies font size issue
 
+featured image 
+
+
