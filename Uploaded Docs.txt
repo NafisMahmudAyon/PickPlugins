@@ -798,43 +798,143 @@ Doc-160:
     Uploaded Date: JANUARY 18, 2023
     Link: https://getpostgrid.com/docs/how-to-set-tabs-navs-icons/
     
-Doc-160: 
+Doc-161: 
     Doc Name: How to style Tabs navs icons?
     Uploaded Date: JANUARY 18, 2023
     Link: https://getpostgrid.com/docs/how-to-style-tabs-navs-icons/
     
-Doc-160: 
+Doc-162: 
     Doc Name: How  to set Tabs navs  icon position?
     Uploaded Date: JANUARY 18, 2023
     Link: https://getpostgrid.com/docs/how-to-set-tabs-navs-icon-position/
     
-Doc-160: 
+Doc-163: 
     Doc Name: How to change tabs navs positions?
     Uploaded Date: JANUARY 18, 2023
     Link: https://getpostgrid.com/docs/how-to-change-tabs-navs-positions/
     
-Doc-160: 
+Doc-164: 
+    Doc Name: How to set link to author meta value to featured image?
+    Uploaded Date: JANUARY 19, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-link-to-author-meta-value-to-featured-image/
+    
+Doc-165: 
+    Doc Name: How to set link to custom fields value to featured image?
+    Uploaded Date: JANUARY 19, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-link-to-custom-fields-value-to-featured-image/
+    
+Doc-166: 
+    Doc Name: How to set custom width and height for featured image?
+    Uploaded Date: JANUARY 19, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-custom-width-and-height-for-featured-image/
+    
+Doc-167: 
+    Doc Name: How to set Image Scale for featured image?
+    Uploaded Date: JANUARY 19, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-image-scale-for-featured-image/
+    
+Doc-168: 
+    Doc Name: How to set alt text for featured image?
+    Uploaded Date: JANUARY 19, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-alt-text-for-featured-image/
+    
+Doc-169: 
+    Doc Name: How to set link to featured image to URL?
+    Uploaded Date: JANUARY 19, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-link-to-featured-image-to-url/
+    
+Doc-170: 
+    Doc Name: How to set custom thumbnail size for featured image?
+    Uploaded Date: JANUARY 19, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-custom-thumbnail-size-for-featured-image/
+    
+Doc-171: 
+    Doc Name: How to use featured image as background?
+    Uploaded Date: JANUARY 19, 2023
+    Link: https://getpostgrid.com/docs/how-to-use-featured-image-as-background/
+    
+Doc-172: 
+    Doc Name: How to use custom wrapper featured image?
+    Uploaded Date: JANUARY 21, 2023
+    Link: https://getpostgrid.com/docs/how-to-use-custom-wrapper-featured-image/
+    
+Doc-173: 
+    Doc Name: How to use image filters for featured image?
+    Uploaded Date: JANUARY 21, 2023
+    Link: https://getpostgrid.com/docs/how-to-use-image-filters-for-featured-image/
+    
+Doc-174: 
+    Doc Name: How to set custom width and height for Image Block?
+    Uploaded Date: JANUARY 21, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-custom-width-and-height-for-image-block/
+    
+Doc-175: 
+    Doc Name: How to set link to custom fields value to Image Block?
+    Uploaded Date: JANUARY 21, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-link-to-custom-fields-value-to-image-block/
+    
+Doc-176: 
+    Doc Name: How to use image as background on Image Block?
+    Uploaded Date: JANUARY 21, 2023
+    Link: https://getpostgrid.com/docs/how-to-use-image-as-background-on-image-block/
+    
+Doc-177: 
+    Doc Name: How to use custom wrapper for Image Block?
+    Uploaded Date: JANUARY 21, 2023
+    Link: https://getpostgrid.com/docs/how-to-use-custom-wrapper-for-image-block/
+    
+Doc-178: 
+    Doc Name: How to set Image Scale for Image Block?
+    Uploaded Date: JANUARY 21, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-image-scale-for-image-block/
+    
+Doc-179: 
+    Doc Name: How to set alt text for Image Block?
+    Uploaded Date: JANUARY 21, 2023
+    Link: https://getpostgrid.com/docs/how-to-set-alt-text-for-image-block/
+    
+Doc-180: 
     Doc Name: 
-    Uploaded Date: JANUARY 18, 2023
+    Uploaded Date: JANUARY 22, 2023
     Link: 
     
-Doc-160: 
+Doc-181: 
     Doc Name: 
-    Uploaded Date: JANUARY 16, 2023
+    Uploaded Date: JANUARY 22, 2023
     Link: 
     
-Doc-160: 
+Doc-182: 
     Doc Name: 
-    Uploaded Date: JANUARY 16, 2023
+    Uploaded Date: JANUARY 22, 2023
     Link: 
     
-Doc-160: 
+Doc-183: 
     Doc Name: 
-    Uploaded Date: JANUARY 16, 2023
+    Uploaded Date: JANUARY 22, 2023
     Link: 
     
-Doc-160: 
+Doc-184: 
     Doc Name: 
-    Uploaded Date: JANUARY 16, 2023
+    Uploaded Date: JANUARY 22, 2023
+    Link: 
+    
+Doc-185: 
+    Doc Name: 
+    Uploaded Date: JANUARY 22, 2023
+    Link: 
+    
+Doc-186: 
+    Doc Name: 
+    Uploaded Date: JANUARY 22, 2023
+    Link: 
+    
+Doc-187: 
+    Doc Name: 
+    Uploaded Date: JANUARY 22, 2023
+    Link: 
+    
+Doc-188: 
+    Doc Name: 
+    Uploaded Date: JANUARY 22, 2023
     Link: 
     

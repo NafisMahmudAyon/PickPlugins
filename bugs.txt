@@ -29,6 +29,13 @@ category font size issue
 tags font size issue
 taxonomies font size issue
 
-featured image 
+featured image custom link and all link option not working
+after selecting author meta there is no imput field for author meta value.
+custom field if not fill the input field the image not showing on frontend.
+
+
+Image Block image as background double image div create 
+
+
 
 
