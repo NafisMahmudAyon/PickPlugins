@@ -1,41 +1,14 @@
-######05-01-2023######
-=>> (Author Fields Block) Author Fields - Nick name not showing.
-=>> (Author Fields Block) Field Setting - Font size break issue.
-=>> (Author Fields Block) Icon - Font size break issue.
-=>> (Author Fields Block) It is by default linked with the post link.
 
 
-taxonomies front text font issue
+Featured Image Block:
+    featured image custom link , home url , custom field, Author Meta 
+    after selecting author meta there is no imput field for author meta value.
+    custom field if not fill the input field the image not showing on frontend.
 
+Post Author Block:
+    post author custom css not showing on frontend
 
-taxonomies items display not found inline-block
-
-postdate 
-
-
-
-post excerpt with out read more there are extra anchor text.
-
-accordion icon font size break
-accordion icon color frontend not showing
-header active color frontend not showing
-
-tabs icon toggle not working
-font size issue
-icon color issue
-
-
-category font size issue
-tags font size issue
-taxonomies font size issue
-
-featured image custom link and all link option not working
-after selecting author meta there is no imput field for author meta value.
-custom field if not fill the input field the image not showing on frontend.
-
-
-Image Block image as background double image div create 
-
-
+Layers Block:
+    needed layers border-radius and drop-shadow , box-shadow
 
 
