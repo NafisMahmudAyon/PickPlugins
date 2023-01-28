@@ -12,3 +12,5 @@ Layers Block:
     needed layers border-radius and drop-shadow , box-shadow
 
 
+multiple layer style issue 
+editor css style missing
