@@ -14,3 +14,8 @@ Layers Block:
 
 multiple layer style issue 
 editor css style missing
+
+
+post title style width auto option needed
+style remove not working
+font size continus 
