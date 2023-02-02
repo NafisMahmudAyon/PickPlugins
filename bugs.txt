@@ -14,8 +14,18 @@ Layers Block:
 
 multiple layer style issue 
 editor css style missing
-
+layers link to post url
 
 post title style width auto option needed
 style remove not working
-font size continus 
+font size focus out
+
+
+background image featured image
+
+image height not working
+
+
+
+//////////////////////////////////////////////
+
