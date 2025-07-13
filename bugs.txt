@@ -29,3 +29,82 @@ image height not working
 
 //////////////////////////////////////////////
 
+Post date text transform 
+font size issue post transform
+
+Layers need to add link
+link color override by theme
+
+absolute item not linked
+top e issue 
+
+////////////////////////////////////////
+text decoration
+border spacing
+box shadow
+filter
+
+Post Grid Combo- Post Layout --131
+
+
+category
+read more
+
+
+
+social share label color not working
+social share items  font size break
+
+
+
+
+
+//Install pro version
+//How to activate license?
+//How to create accordion ?
+//How to create nested accordion
+//Accordion Open/Closed on load
+
+//Open/activate via URL hash
+
+//How to display YouTube video?
+//How to Export/Import Accordion?
+//How to enable lazy load
+//How to change lazy load icon?
+
+//Remove product FAQ tab
+
+
+//Display Product FAQ tab
+//How to check browser console log
+//Icons not showing
+//Display accordion under post dynamically
+Get latest version & automatic update
+Accordion is not working
+Find on default search result
+accordions_edit_url
+
+
+
+#Open/activate via URL parameter?
+#Custom header background image ?
+#Remove blue border
+
+Enable debug and debug log
+
+
+
+
+//accordions_main
+accordions_tabs_main
+accordions_tabs_main_no_content
+accordions_main_no_content
+Filter hooks
+accordions_item_body
+accordions_item_header
+accordions_metabox_navs
+accordions_edit_url
+accordions_wp_kses
+Shortcodes – Accordions
+accordions
+accordions_tabs
